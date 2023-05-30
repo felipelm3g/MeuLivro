@@ -1,4 +1,4 @@
-# Título do Livro: "Os 4 Estágios da Venda: Transformando Clientes em Compradores"
+# Os 4 Estágios da Venda: Transformando Clientes em Compradores
 
 ## Introdução
 
